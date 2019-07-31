@@ -1,0 +1,2 @@
+# goreng
+golek duit
